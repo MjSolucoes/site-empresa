@@ -1,6 +1,6 @@
 # 📡 Mj Soluções
 
-**Bem-vindo ao repositório oficial da Mj Soluções.**  
+**Bem-vindo(a) ao repositório oficial da Mj Soluções.**  
 
 Somos especialistas em soluções de **segurança eletrônica**, **automação de portões**, e **CFTV** e **controle de acesso**, trazendo inovação e confiança para proteger o que mais importa. 
 
