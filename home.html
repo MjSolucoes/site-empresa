@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        * {
+           margin: 0;
+           padding: 0;
+        }
+
+        body {
+           width: 100vw;
+           height: 100vh;
+           background: black url('imagens/home14.jpeg') no-repeat top center;
+           background-size: cover;
+        }
+
+
+        .overlay {
+        position: absolute; /* Elementos internos sobre a imagem */
+        top: 0%; /* Começa a partir do topo */
+        left: 0%;
+        width: 100%; 
+        height: 100%; /* A camada cobre toda a imagem */
+        display: flex;
+        flex-direction: column; /* Alinha textos verticalmente */
+        justify-content: center; /* Centraliza na vertical */
+        align-items: center; 
+        color: white; 
+        font-family: serif;
+        text-align: center; 
+        
+}
+
+
+      .instruction {
+         margin-top: 60%;
+        font-size: 0.9em;
+        animation: pulse 2s infinite; 
+}
+
+     @keyframes pulse {
+     0%, 100% { opacity: 0.7; transform: scale(1); }
+     50% { opacity: 1; transform: scale(1.05); }
+}
+
+   </style>
+</head>
+<body>
+    <div class="overlay">
+        <!-- Texto ou ícone sobreposto -->
+        <p class="instruction">Toque nos ícones ao lado</p>
+    </div>
+</body>
+</html>
