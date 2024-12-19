@@ -18,7 +18,6 @@ Desde nossa fundação, temos como objetivo proporcionar **tecnologia de ponta**
 
 🔒 **Segurança Eletrônica:**  
 - Instalação de sistemas de alarme.  
-- Monitoramento 24/7.  
 
 ⚙️ **Automação de Portões:**  
 - Portões deslizantes, basculantes e pivotantes.  
@@ -40,6 +39,7 @@ Trabalhamos com as melhores marcas do mercado, como:
 - **Intelbras**  
 - **PPA**   
 - **JFL**
+- **Garen**
 
 Nossos projetos são desenvolvidos com foco em **eficiência** e **durabilidade**, garantindo a melhor experiência ao cliente.
 
