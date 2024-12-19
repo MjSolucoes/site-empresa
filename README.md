@@ -21,7 +21,7 @@ Desde nossa fundação, temos como objetivo proporcionar **tecnologia de ponta**
 
 ⚙️ **Automação de Portões:**  
 - Portões deslizantes, basculantes e pivotantes.  
-- Soluções para condomínios e residências.  
+- Soluções para condomínios, residências e empresas.  
 
 📷 **Câmeras de Segurança:**  
 - Projetos personalizados para pequenas e grandes instalações.  
